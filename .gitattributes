@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.php text eol=lf
 # Set CRLF endings for text files (e.g., README)
 *.txt text eol=crlf
